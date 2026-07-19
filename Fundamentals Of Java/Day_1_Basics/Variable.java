@@ -1,4 +1,5 @@
 // First Program using variable in java
+package Day_1_Basics;
 public class Variable {
     public static void main(String[] args) {
 
